@@ -60,7 +60,7 @@ def app():
         st.write(summary)
 
     st.sidebar.warning("Note: Using the GPU option requires a CUDA-enabled GPU and compatible drivers.")
-    st.sidebar.info("Made with ❤️ by OpenAI")
+    st.sidebar.info("Someonesphantom")
 
 if __name__ == "__main__":
     app()
